@@ -1,2 +1,2 @@
 # Hello_world
-Prova di un branch
+This repository is for practicing the GitHub Flow.
