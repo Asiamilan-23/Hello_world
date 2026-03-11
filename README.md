@@ -2,3 +2,6 @@
 This repository is for practicing the GitHub Flow.
 
 Esercitazione *Pensiero computazionele*
+
+aggiungiamo cio anche
+
